@@ -1,0 +1,12 @@
+.nav__panel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.nav__link {
+  text-decoration: none;
+  outline: none;
+  font-size: 18px;
+  padding: 8px 12px;
+}

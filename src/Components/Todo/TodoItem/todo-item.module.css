@@ -1,0 +1,9 @@
+.todo,
+.todo__done {
+  border: 1px solid gray;
+  padding: 15px;
+  margin: 0 15px;
+}
+.todo__done {
+  background-color: rgb(8, 171, 8);
+}
